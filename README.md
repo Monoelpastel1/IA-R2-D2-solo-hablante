@@ -29,3 +29,12 @@ Puedes instalarlos con:
 
 ```bash
 pip install openai gtts pydub playsound
+```
+
+## Archivos de Sonido 🎵
+
+Los archivos de sonido están disponibles en el siguiente enlace:
+
+[🔗 Carpeta de Google Drive](https://drive.google.com/drive/folders/1QRW1pqf3OhYZvC_pThy0B72M8fxdkqax?usp=drive_link)
+
+
